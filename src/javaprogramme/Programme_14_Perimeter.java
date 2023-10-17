@@ -10,6 +10,6 @@ public class Programme_14_Perimeter {
         double h = 8.5;
         double a = w * h;
         double b = (w + h) * 2;
-        System.out.println("Area of Traingle is " + a + " and Perimeter is: " + b);
+        System.out.println("Area of rectangle is " + a + " and Perimeter is: " + b);
     }
 }

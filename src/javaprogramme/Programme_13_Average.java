@@ -13,7 +13,7 @@ public class Programme_13_Average {
         double b = sc.nextDouble();
         System.out.println("Enter third number : ");
         double c = sc.nextDouble();
-        double d = (a + b + c) / 2;
+        double d = (a + b + c) / 3;
         System.out.println("Average of the numbers are : " + d);
         sc.close();
 
